@@ -1,0 +1,14 @@
+{
+"梅花": {
+    "imagePath": "assets/images/梅花.jpg",
+    "brief": "梅花：冰清玉洁的花中君子",
+    "details": "梅花，学名Prunus mume，是蔷薇科李属植物。原产于中国，被誉为中国十大名花之一。梅花以其在严寒中绽放的品格，象征着坚韧、高洁和希望。\n\n特点：\n1. 耐寒：能在零下10度的环境中开花\n2. 香气：花朵散发淡雅清香\n3. 色彩：有白、粉、红等多种颜色\n4. 文化意义：在中国传统文化中代表坚强、高尚\n\n梅花与松、竹并称为'岁寒三友'，在中国文学艺术中常被用作题材，表达对高尚品格的赞美。",
+    "backgroundColor": "FFF0F5FF",
+    "themeColor": "FFE30B5C"
+  },
+  "qr_code_value_2": {
+    "imagePath": "assets/images/2.0x/flutter_logo.png",
+    "brief": "这是第二个项目的简介",
+    "details": "这是第二个项目的详细描述..."
+  }
+}
